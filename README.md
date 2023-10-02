@@ -1,6 +1,6 @@
 # Numerical Project ODE: Modelling Populations using the Lotka-Volterra equations
 
-## All exercises can be found in the .pdf file!
+## All exercises and further explanations about the project can be found in the .pdf file!
 
 The goal of this project was to model populations of tomatoes and aphids using differential equations. In the end, ladybugs were added to see how they affect the numbers of the other two when eating the aphids.
 The project was part of the course "Ordinary Differential Equations" at Stockholm University.
