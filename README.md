@@ -6,3 +6,15 @@ The project was part of the course "Ordinary Differential Equations" at Stockhol
 <p align="center">
   <img src="https://github.com/LithuanianMathemator/LinAlgAndData/blob/main/Images/StockholmUniversity.png" alt="drawing" width="300"/>
 </p>
+
+<p align="center">
+  <img src="https://github.com/LithuanianMathemator/DiffEqLotkaVolterra/blob/main/Images/Timesteps.png" alt="drawing" width="600"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/LithuanianMathemator/DiffEqLotkaVolterra/blob/main/Images/WithTomatoes.png" alt="drawing" width="600"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/LithuanianMathemator/DiffEqLotkaVolterra/blob/main/Images/WithLadybugs.png" alt="drawing" width="600"/>
+</p>
